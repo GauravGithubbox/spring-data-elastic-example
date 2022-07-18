@@ -1,0 +1,6 @@
+com/knoldus/load/Loaders.class
+com/knoldus/SpringElasticDemoApplication.class
+com/knoldus/repository/UsersRepository.class
+com/knoldus/model/Users.class
+com/knoldus/config/ElasticConfiguration.class
+com/knoldus/resource/SearchResource.class
